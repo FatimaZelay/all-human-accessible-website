@@ -1,25 +1,32 @@
-# Accessible Website
 
-Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen.
 
-De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-task/all-human-accessible-website/blob/main/docs/INSTRUCTIONS.md)
+# Accessibility/Toegankelijkheid
 
-## Inhoudsopgave
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+ <img width="1467" alt="Screenshot 2024-10-24 at 09 45 19" src="https://github.com/user-attachments/assets/4ba587c6-2516-43ee-9cce-ee1d29790c94">
+
+
+## Intro
+
+Tijdens deze sprint hebben we gewerkt aan de toegankelijkheid van de website. Ik heb ook meer aan de website gewerkt, ik heb de nav-bar aangepast en de searchbar toegevoegt. 
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Deze website is vol met foto's dus het is niet echt bedoeld voor toegankelijkheid. De eindgebruiker zal het navigeren in deze website moeilijk vinden en al helemaal voor iemand die blind of slechtiziend is. De navigatie-bar werkt wel naar behoren maar is alleen moeilijk te navigeren. 
+
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+InfiniteCanvas
+Nav-bar position: fixed
 
-## Bronnen
+## Vragen 
+
+Feedback over accessibility
+Keyboard navegatie met canvas
+Tab-functie accessibility (header,navegatie,buttons)
+Hoe kan ik de zoekbar zwevend maken zonder de witte balk ana de achterkant
+
+
 
 ## Licentie
-This project is licensed under the terms of the [MIT license](./LICENSE).
+This project is licensed under the terms of the [MIT license](./LICENSE)
+
